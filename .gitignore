@@ -1,0 +1,6 @@
+*.obj
+*.pdb
+*.exe
+*.zip
+*.ilk
+.idea/
